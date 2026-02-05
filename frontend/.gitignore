@@ -37,3 +37,12 @@ __screenshots__/
 
 # Vite
 *.timestamp-*-*.mjs
+
+#django里面的ignore
+__pycache__/
+*.py[cod]
+.idea/
+db.sqlite3
+media/
+staticfiles/
+static/
